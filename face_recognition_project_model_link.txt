@@ -1,0 +1,1 @@
+teachablemachine.withgoogle.com/models/voNc-NQ5I/
